@@ -20,3 +20,8 @@ node_modules/
 # Temp
 *.tmp
 *.log
+
+# Binaries (keep repo clean)
+*.exe
+*.dll
+*.so
